@@ -1,9 +1,3 @@
-// Import stylesheets
-import './style.css';
-import './jaystorm.css';
-import $ from 'jquery';
-import Swal from 'sweetalert2';
-
 $(document).ready(function () {
   jaystormClickListener();
 });
