@@ -1,0 +1,9 @@
+{
+  "name": "js-5tmyax",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "sweetalert2": "^8.2.6"
+  }
+}

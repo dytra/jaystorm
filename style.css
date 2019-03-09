@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+	 flex-direction:row;
+/* 	 background:red; */
+}
+
+input {
+	border:none;
+	border-radius:5px;
+	padding:.5em;
+	outline:none;
+	text-align:center;
+}
+
+input[type='submit'] {
+  width:100%;
+  background: burlywood;
+  color: darkslategrey
+}
+
+body {
+	background:grey;
+}
+
