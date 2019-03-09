@@ -3,11 +3,11 @@ A widget that lets you automaticly input your web app input fields by just inser
 
 Demo : https://stackblitz.com/edit/jaystormv2
 
-### Supported Input Fields
+### Supported Input Tags
 
-- input (text,email,date,radio)
-- textarea
-- select options
+- `<input>` (text,email,date,radio)
+- `<textarea>`
+- `<select>`
 
 ### JSON Recipe Format
 
